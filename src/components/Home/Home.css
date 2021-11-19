@@ -1,0 +1,13 @@
+.dropdown-menu {
+  background-color: #ffcb05 !important  ;
+}
+
+.nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.nav-link:hover {
+  color: #ffcb05 !important;
+  font-weight: 600 !important;
+  text-decoration: underline;
+}
